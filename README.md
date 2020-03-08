@@ -1,3 +1,3 @@
 # Hello-world
 just another repository
-I lubli pokushat
+I lublu pokushat
